@@ -45,7 +45,7 @@ trash: 89.91%
 
 1. Clone this repository:
    ```
-   git clone https://github.com/SanyaShresta25/Garbage-Classification-Using-CNN&AlexNet.git
+   git clone https://github.com/SanyaShresta25/Garbage-Classification-Using-CNN-AlexNet.git
    cd Garbage_Classification_Using_CNN&AlexNet
    ```
 

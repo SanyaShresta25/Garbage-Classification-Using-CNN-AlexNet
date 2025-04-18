@@ -10,8 +10,6 @@
 
 This project implements a Convolutional Neural Network (CNN) to classify waste into six categories: cardboard, glass, metal, paper, plastic, and trash. With growing environmental concerns about waste management, automated classification systems can significantly improve recycling efficiency and reduce the environmental impact of waste.
 
-![Sample Images](https://i.imgur.com/8zBLXjO.png)
-
 ## ✨ Features
 
 - **High Accuracy Classification**: Achieves 90%+ accuracy in waste material identification
@@ -47,8 +45,8 @@ trash: 89.91%
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/garbage-classification.git
-   cd garbage-classification
+   git clone https://github.com/SanyaShresta25/Garbage-Classification-Using-CNN&AlexNet.git
+   cd Garbage_Classification_Using_CNN&AlexNet
    ```
 
 2. Install dependencies:

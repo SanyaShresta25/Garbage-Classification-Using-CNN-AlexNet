@@ -72,14 +72,6 @@ trash: 89.91%
 
 ## 🚀 Usage
 
-### Training
-
-Run the provided script to train the model:
-
-```python
-python train.py
-```
-
 The script will:
 1. Load and preprocess the dataset
 2. Create data generators with augmentation
@@ -101,7 +93,7 @@ import numpy as np
 model = load_model('garbage_classifier_model.h5')
 
 # Load and preprocess an image
-img = image.load_img('path_to_image.jpg', target_size=(384, 512))
+img = image.load_img('path_to_image.jpg', target_size=(128, 128))
 img_array = image.img_to_array(img) / 255.0
 img_array = np.expand_dims(img_array, axis=0)
 

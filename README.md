@@ -139,9 +139,6 @@ The model evaluation includes:
 - Add object detection to identify multiple waste items in a single image
 - Deploy the model to edge devices for on-site waste sorting
 
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🤝 Contributing
 
@@ -149,7 +146,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📞 Contact
 
-For questions or feedback, please open an issue in the repository or contact [sanyashresta@example.com](mailto:your-email@example.com).
+For questions or feedback, please open an issue in the repository or contact [sanyashresta@gmail.com](mailto:your-email@example.com).
 
 ---
 

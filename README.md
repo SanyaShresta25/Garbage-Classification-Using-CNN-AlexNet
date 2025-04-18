@@ -149,7 +149,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📞 Contact
 
-For questions or feedback, please open an issue in the repository or contact [your-email@example.com](mailto:your-email@example.com).
+For questions or feedback, please open an issue in the repository or contact [sanyashresta@example.com](mailto:your-email@example.com).
 
 ---
 

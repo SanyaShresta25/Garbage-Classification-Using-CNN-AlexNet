@@ -2,7 +2,7 @@
 
 ![Garbage Classification](https://img.shields.io/badge/Computer%20Vision-Waste%20Classification-brightgreen)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
-![Accuracy](https://img.shields.io/badge/Accuracy-90%2B%25-blue)
+![Accuracy](https://img.shields.io/badge/Accuracy-50%2B%25-blue)
 
 > AI-powered image classification system to identify and sort various types of waste materials
 

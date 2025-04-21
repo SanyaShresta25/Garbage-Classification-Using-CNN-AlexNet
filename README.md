@@ -125,6 +125,9 @@ The model evaluation includes:
 - Confusion matrix visualization
 - Detailed classification report with precision, recall, and F1-score
 - Class-wise accuracy metrics
+- Hyperparameter tuning
+  ![image](https://github.com/user-attachments/assets/6ef57ab6-52b3-4cde-bdc5-6517ddf842be)
+
 
 ## 🛣️ Future Improvements
 

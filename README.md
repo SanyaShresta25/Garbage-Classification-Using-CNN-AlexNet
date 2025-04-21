@@ -113,7 +113,7 @@ This project uses the [Garbage Classification dataset](https://www.kaggle.com/da
 
 Dataset composition:
 - 2527 images across 6 categories
-- Resolution varies, resized to 128×128 during training
+- Resolution varies, resized to 384×512 during training
 - Split into 80% training and 20% validation
 
 ## 🔍 Model Evaluation

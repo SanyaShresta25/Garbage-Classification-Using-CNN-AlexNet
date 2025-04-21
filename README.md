@@ -116,6 +116,9 @@ Dataset composition:
 - Resolution varies, resized to 384×512 during training
 - Split into 80% training and 20% validation
 
+  ![image](https://github.com/user-attachments/assets/4c9b1ee6-8a9a-4917-a81b-08f30087a18a)
+
+
 ## 🔍 Model Evaluation
 
 The model evaluation includes:

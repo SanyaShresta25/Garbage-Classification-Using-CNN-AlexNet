@@ -12,7 +12,7 @@ This project implements a Convolutional Neural Network (CNN) to classify waste i
 
 ## ✨ Features
 
-- **High Accuracy Classification**: Achieves 90%+ accuracy in waste material identification
+- **High Accuracy Classification**: Achieves 65.61%+ accuracy in waste material identification
 - **6 Waste Categories**: Distinguishes between cardboard, glass, metal, paper, plastic, and general trash
 - **Data Augmentation**: Implements rotation, zoom, shift, shear, and flip augmentations to improve model robustness
 - **Optimized CNN Architecture**: Uses a deep neural network with batch normalization for efficient learning
